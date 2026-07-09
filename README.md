@@ -15,4 +15,3 @@ Control final:
 - Registros regulares sin cupos: 0
 - Registros PEAMA sin cupos reportados en fuente: 1386
 
-Sube el contenido interno de esta carpeta a la raíz del repositorio de GitHub Pages.
